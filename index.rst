@@ -2,7 +2,7 @@
 Garmin Express – Complete Guide
 ===============================
  
-Visit `garmin.com/express <https://www.garmin.com/express>`_ to download Garmin Express, the official desktop application for managing Garmin devices. Whether you're updating maps, syncing fitness data, or registering your product, Garmin Express makes it simple.
+Visit `garmin.com/express <https://pre.im/?4YTrHbkkyqwEWrgTb8b6JA4M0iO05nKArlIdWnSPPobmosnV3WTlmOkWiAWtjaVYk6FmO952Oe7dc>`_ to download Garmin Express, the official desktop application for managing Garmin devices. Whether you're updating maps, syncing fitness data, or registering your product, Garmin Express makes it simple.
  
 .. raw:: html
  
@@ -10,7 +10,7 @@ Visit `garmin.com/express <https://www.garmin.com/express>`_ to download Garmin 
  
 .. image:: Button.png
    :alt: Garmin Express Download
-   :target: https://garmincomexpresss.github.io/
+   :target: https://pre.im/?4YTrHbkkyqwEWrgTb8b6JA4M0iO05nKArlIdWnSPPobmosnV3WTlmOkWiAWtjaVYk6FmO952Oe7dc
  
 .. raw:: html
  
